@@ -1,9 +1,16 @@
 # Assignment2
 
 팀장
+
 20147220XX 홍길동
 
+
+
 팀원
+
 20147220XX OOO
+
 20147220XX OOO
+
 20147220XX OOO
+
