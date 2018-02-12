@@ -2,7 +2,7 @@
 
 팀장
 
-2014722064 강희정(tentasys)
+2014722064 OOO(github id)
 
 
 
